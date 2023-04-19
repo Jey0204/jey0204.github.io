@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Informacje"
-permalink: https://octocat.github.io/about/info
+permalink: /about/info
 ---
 
 Strona zawiera informacje o pieskach.
